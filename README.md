@@ -21,10 +21,13 @@ O projeto **Amigo Secreto** é uma aplicação simples e interativa para realiza
 - **JavaScript**: Lógica do sorteio, manipulação de listas e interatividade.
   
 ---
+## 💻 Link do Projeto
+
+Segue o link do Site Dorteador: [CLIQUE AQUI](https://rafaelflorentinobarbosa.github.io/Amigo-secreto/)
 
 ## 🔧 **Como Usar**
 
 1. **Clone o Repositório**  
    Clone o repositório para sua máquina local:
    ```bash
-   git clone https://github.com/seu-usuario/amigo-secreto.git
+   git clone https://github.com/rafaelflorentinobarbosa/Amigo-secreto
