@@ -23,7 +23,7 @@ O projeto **Amigo Secreto** é uma aplicação simples e interativa para realiza
 ---
 ## 💻 Link do Projeto
 
-Segue o link do Site Dorteador: [CLIQUE AQUI](https://rafaelflorentinobarbosa.github.io/Amigo-secreto/)
+Segue o link do Site Sorteador: [CLIQUE AQUI](https://rafaelflorentinobarbosa.github.io/Amigo-secreto/)
 
 ## 🔧 **Como Usar**
 
